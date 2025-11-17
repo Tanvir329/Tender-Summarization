@@ -14,7 +14,7 @@ import requests
 from dateutil import parser
 
 # Initialize Cohere client
-co = cohere.ClientV2(api_key="okYrKAw1OPZoMnOSCR6rUVO2cbSulB4gCmuo04UY")  # Replace with your key
+co = cohere.ClientV2(api_key="COHERE_API_KEY")  # Replace with your key
 
 #initialising data variable
 data = None
