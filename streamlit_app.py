@@ -398,6 +398,6 @@ else:
 # Footer and close centered div
 st.markdown("---")
 st.markdown(
-    "<p style='text-align:center; color: gray;'>Designed by Medimaze AI Team</p></div>",
+    "<p style='text-align:center; color: gray;'>Fun Project</p></div>",
     unsafe_allow_html=True,
 )
